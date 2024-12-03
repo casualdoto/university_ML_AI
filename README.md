@@ -6,3 +6,5 @@ Homeworks of the ML&amp;AI subject
 2nd homework - lab 02 + SLT.pdf (download it to see in better quality please, because I used some screenshots of formulas).
 
 Lesson 05 homework - Lesson 05 - Deep Learning, Neural Networks.pdf
+
+Lesson 06 homework - Lesson 06 - Deep Learning II: Building and Training Deep Neural Nets with Pytorch.pdf
